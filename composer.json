@@ -1,8 +1,5 @@
 {
     "name": "sculpin/blog-skeleton-theme",
-    "require": {
-        "sculpin/sculpin-theme-composer-plugin": "1.0.*"
-    },
     "extra": {
         "sculpin-theme": {
             "name": "sculpin-blog-skeleton"
