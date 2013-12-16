@@ -1,6 +1,14 @@
 {
     "name": "sculpin/blog-skeleton-theme",
-    "description": "1",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:simensen/sculpin-theme-composer-plugin.git"
+        }
+    ],
+    "require-foo": {
+        "sculpin/sculpin-theme-composer-plugin": "1.0.*@dev"
+    },
     "extra": {
         "sculpin-theme": {
             "name": "sculpin-blog-skeleton"
