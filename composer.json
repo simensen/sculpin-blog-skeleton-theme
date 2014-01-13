@@ -1,8 +1,4 @@
 {
     "name": "sculpin/blog-skeleton-theme",
-    "extra": {
-        "sculpin-theme": {
-            "name": "sculpin-blog-skeleton"
-        }
-    }
+    "type": "sculpin-theme"
 }
